@@ -11,9 +11,9 @@ Written in C++ using JUCE API
 <IMG SRC = "ImageView1_1.png" alt="ImageView1">
 Choose a picture:
 
-<IMG SRC = "ImageView1_2.png" alt="ImageView1">
+<IMG SRC = "ImageView1_2.png" alt="ImageView2">
 Resizable preview window:
 
-<IMG SRC = "ImageView1_3.png" alt="ImageView1">
+<IMG SRC = "ImageView1_3.png" alt="ImageView3">
 
 </h3>
